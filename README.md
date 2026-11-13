@@ -204,3 +204,11 @@ If you find this project useful and would like to support it, consider making a 
 ### Contact
 
 Send any questions or comments to bitcrack.project@gmail.com
+
+## Support this project
+
+<p align="center">
+  <a href="https://buymeacoffee.com/ufodia">
+    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me a Coffee" height="60">
+  </a>
+</p>
